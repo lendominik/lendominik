@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @lendominik!
+Hi, I’m @lendominik!
